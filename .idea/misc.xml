@@ -14,9 +14,9 @@
         <entry key="app/src/main/res/drawable/ic_new_task_plus.xml" value="0.2611111111111111" />
         <entry key="app/src/main/res/drawable/launcher_screen.xml" value="0.36875" />
         <entry key="app/src/main/res/drawable/new_task_button_shape.xml" value="0.20555555555555555" />
-        <entry key="app/src/main/res/layout/activity_edit_note.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_edit_note.xml" value="0.25" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.25" />
-        <entry key="app/src/main/res/layout/note_holder.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/note_holder.xml" value="0.25" />
         <entry key="app/src/main/res/layout/note_input.xml" value="0.1" />
         <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.215625" />
         <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher_icon.xml" value="0.215625" />

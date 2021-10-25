@@ -15,19 +15,21 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent">
 
+
         <TextView
             android:id="@+id/txt_note_name"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:textColor="@android:color/white"
-            android:textSize="20dp"
+            android:textSize="25dp"
             android:textStyle="bold"
+            app:layout_constraintBottom_toTopOf="@id/txt_note_description"
             app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.06"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toTopOf="parent"
-            app:layout_constraintBottom_toTopOf="@id/txt_note_description"
+            app:layout_constraintVertical_bias="0.0"
             tools:text="Title" />
-
 
         <TextView
             android:id="@+id/txt_note_description"
@@ -38,7 +40,7 @@
             android:ellipsize="end"
             android:maxLines="1"
             android:textColor="@android:color/white"
-            android:textSize="30dp"
+            android:textSize="20dp"
             app:layout_constraintBottom_toBottomOf="parent"
             app:layout_constraintEnd_toStartOf="@+id/img_edit"
             app:layout_constraintHorizontal_bias="1.0"
